@@ -16,3 +16,7 @@ Personal Portfolio Website
 
 ## Author
 Nensi Shingala
+
+## Live Demo
+
+https://nensi2607.github.io/synent-task1-portfolio-nensi/
